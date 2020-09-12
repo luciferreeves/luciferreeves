@@ -1,7 +1,8 @@
 ![i_make_ideas_happen](images/i_make_ideas_happen.png)
 ![my_description](images/my_description.gif)
+![detail](images/detail.png)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **luciferreeves/luciferreeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
