@@ -1,3 +1,6 @@
+![i_make_ideas_happen](images/i_make_ideas_happen.png)
+![my_description](images/my_description.gif)
+
 ### Hi there 👋
 
 <!--
