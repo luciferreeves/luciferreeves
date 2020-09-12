@@ -1,6 +1,6 @@
-![i_make_ideas_happen](images/i_make_ideas_happen.png)
-![my_description](images/my_description.gif)
-![detail](images/detail.png)
+![i_make_ideas_happen](https://github.com/luciferreeves/luciferreeves/raw/master/images/i_make_ideas_happen.png)
+![my_description](https://github.com/luciferreeves/luciferreeves/raw/master/images/my_description.gif)
+![detail](https://github.com/luciferreeves/luciferreeves/raw/master/images/detail.png)
 
 <!-- ### Hi there 👋 -->
 
